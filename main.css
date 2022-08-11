@@ -1,0 +1,21 @@
+
+#collapseThree .accordion-body img {
+display: none;
+
+} 
+
+@media screen and (max-width: 768px) {
+    #collapseThree .accordion-body img ;
+    display: block;
+    }
+
+#collapseThree .accordion-body iframe {
+    display: block;
+}
+
+
+
+.container_carrusel {
+    justify-self: center;
+    margin-top: auto;
+}
